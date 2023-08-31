@@ -1,7 +1,11 @@
 # petShop
 Projeto criado ao longo do curso b7 web no modulo de Node + Typescript
 
-# Dependencias globais:
+# Pré-requisitos globais:
 `npm i -g typescript nodemon ts-node`
 
 # Instalação:
+`npm install`
+
+# Rodando server:
+`npm run start-dev`
